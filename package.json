@@ -1,8 +1,8 @@
 {
 	"name": "js-blog",
-	"description": "Build a personal website, blog, or portfolio with Astro.",
+	"description": "God Loves You.",
 	"cloudflare": {
-		"label": "Astro Framework Starter",
+		"label": "JahNoah's Blog",
 		"products": [
 			"Workers"
 		],
